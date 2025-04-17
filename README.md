@@ -147,6 +147,10 @@ The system generates several output files:
 - **Detailed Explanation**: Markdown files with analysis of prediction trends and confidence
 - **Enhanced Discord Integration**: Both standard and candlestick charts sent to Discord
 
+## License
+
+This project is licensed under the MIT License with an additional financial disclaimer - see the [LICENSE](LICENSE) file for details.
+
 ## Disclaimer
 
 This software is for educational and research purposes only. Stock price predictions involve significant uncertainty and should not be the sole basis for investment decisions. Past performance is not indicative of future results. Always consult a qualified financial advisor before making investment decisions. 
