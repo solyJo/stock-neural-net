@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+*.log
+temp_prediction_chart_*.png
+reports/*
+!reports/.gitkeep
+nvidia_news_cache.json
+nvidia_sentiment_cache.json
+
+# Model files and predictions
+# Uncomment these if you don't want to track model/prediction files
+# *.pth
+# *.pkl
+# *_predictions.csv 
